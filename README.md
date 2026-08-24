@@ -187,6 +187,6 @@ The project was recreated and adapted as part of my learning process, with a foc
 - Data visualization principles
 - Analytical thinking and dashboard design
 
-I completed Power BI learning content created by **Luke Barousse**, whose educational resources and dataset served as the foundation for this project.
+I completed Power BI learning content created by Luke Barousse, and used his educational resources and job market dataset as a foundation for developing this project.
 
 🔗 🔗 **Luke Barousse:** [YouTube Channel](https://www.youtube.com/@LukeBarousse)
